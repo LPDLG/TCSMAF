@@ -2,7 +2,7 @@
 
 ## Project Profile
 
-This repository is used for demonstrations and testing based on the HieWoodNet framework. We have uploaded sample image.
+This repository demonstrates the TCSMAF framework, designed for inpainting missing or damaged regions in traditional Chinese paintings. By utilizing a twin cascade spatial multi-scale attention filtering mechanism, our method preserves the unique stylistic and spatial characteristics of traditional artworks during the inpainting process. We provide sample images along with inpainted results to highlight the effectiveness of this approach. Each dataset, including Places2, MuralVerse, CelebA, and others, contains around 20 images to illustrate the framework’s capabilities.
 
 ## Method Overview
 
